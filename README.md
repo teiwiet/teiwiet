@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="100" height="200"/>
+<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" />
 </div>
 <div id="badges" >
 <a href="https://facebook.com/vietbi.cringe">facebook</a>
