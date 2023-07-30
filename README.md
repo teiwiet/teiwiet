@@ -2,7 +2,7 @@
 
 ### 🌱 I’m currently learning
 - :crab: 
-<img back-ground="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="300" width="600">
+<img back-ground="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain colored.svg" height="300" width="600">
           
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
