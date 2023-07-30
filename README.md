@@ -7,7 +7,6 @@
 </div>
 <div id="badges" >
 <a href="https://facebook.com/vietbi.cringe">facebook</a>
-<iframe src="https://giphy.com/embed/Ka6Oa0DLCUIdBmnnj7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hello-hi-chris-cubellis-Ka6Oa0DLCUIdBmnnj7">via GIPHY</a></p>
 </div>
 
 ### 
