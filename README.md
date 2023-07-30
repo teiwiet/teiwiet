@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently learning
+- :crab: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+          
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
@@ -9,7 +12,7 @@
 </div>
 <div id="badges" >
 <a href="https://facebook.com/vietbi.cringe">facebook</a>
-<i class="devicon-facebook-plain"></i>
+<i class="devicon-facebook-plain"> lmao</i>
 </div>
 
 
