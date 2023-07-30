@@ -1,17 +1,22 @@
 ### Hi there 👋
-### 🌱 I’m currently learning 
+
+### 🌱 I’m currently learning
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
 </div>
 <div id="badges" >
 <a href="https://facebook.com/vietbi.cringe">facebook</a>
+<i class="devicon-facebook-plain"></i>
 </div>
 
-### 
+
 - :sunny: this is so cringe
+
 ### my stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
