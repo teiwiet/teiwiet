@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently learning
-- :crab: 
 <img back-ground="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="300" width="600">
           
 
