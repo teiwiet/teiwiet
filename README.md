@@ -3,9 +3,10 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p>How to reach me</p>
-  <a href="https://facebook.com/vietbi.cringe">facebook</a>
-
+  
+</div>
+<div id="badges" >
+<a href="https://facebook.com/vietbi.cringe">facebook</a>
 </div>
 
 ### 
