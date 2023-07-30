@@ -27,6 +27,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<img src="https://media.giphy.com/media/efHwZH4DeN9ss/giphy.gif">
 <!--
 **teiwiet/teiwiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
