@@ -16,7 +16,6 @@
 </div>
 <div id="badges" >
 <a href="https://facebook.com/vietbi.cringe">facebook</a>
-<i class="devicon-facebook-plain"> lmao</i>
 </div>
 
 
