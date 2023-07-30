@@ -1,7 +1,12 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently learning
+
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <img back-ground="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="300" width="600">
+
+<i class="devicon-rust-plain"></i>
           
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
