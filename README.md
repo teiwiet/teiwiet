@@ -21,7 +21,6 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=teiwiet&show_icons=true&theme=dark) -->
 
-- :sunny: this is so cringe
 
 ### My stats
 
