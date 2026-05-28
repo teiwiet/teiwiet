@@ -1,13 +1,14 @@
 <!-- ===================== GIỚI THIỆU ===================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> `whoami`
-About me
+## About me
+
 Security & embedded enthusiast based in Vietnam.
+
 I spend my time on pentesting, reverse engineering, and firmware / IoT / hardware security — taking things apart to understand how they work, and learning how to make them harder to break.
 
-🔧 Tinkering with embedded systems and firmware
-🌱 Learning low-level internals, exploitation, and new attack surfaces
-🎯 Into CTFs and hands-on security projects
-📫 Reach me at the links below and stay curious, stay secure.
+- 🔧 Tinkering with embedded systems and firmware
+- 🌱 Learning low-level internals, exploitation, and new attack surfaces
+- 🎯 Into CTFs and hands-on security projects
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=ff0080)](https://teiwiet.github.io)
 <!-- ===================== TECH STACK ===================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
