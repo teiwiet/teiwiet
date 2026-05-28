@@ -8,7 +8,7 @@ I spend my time on pentesting, reverse engineering, and firmware / IoT / hardwar
 🌱 Learning low-level internals, exploitation, and new attack surfaces
 🎯 Into CTFs and hands-on security projects
 📫 Reach me at the links below and stay curious, stay secure.
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=ff0080)](https://teiwiet.github.io)
 <!-- ===================== TECH STACK ===================== -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
 
@@ -37,9 +37,8 @@ I spend my time on pentesting, reverse engineering, and firmware / IoT / hardwar
 
 <!-- Thay link/handle của bạn vào nhé -->
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teiwiet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/YOUR_HANDLE)
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/teiwiet)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:teiwiet33@gmail.com)
 
 </div>
 
