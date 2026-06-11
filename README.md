@@ -36,8 +36,6 @@ I spend my time on pentesting, reverse engineering, and firmware / IoT / hardwar
 
 <div align="center">
 
-<!-- Thay link/handle của bạn vào nhé -->
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/teiwiet)
 [![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://facebook.com/teiwiet)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:teiwiet33@gmail.com)
 
@@ -48,6 +46,6 @@ I spend my time on pentesting, reverse engineering, and firmware / IoT / hardwar
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:0a0a0a&height=120&section=footer" />
 
-<sub>"There is no patch for human stupidity." — Kevin Mitnick</sub>
+<sub>Stay curious and stay secure</sub>
 
 </div>
